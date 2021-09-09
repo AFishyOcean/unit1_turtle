@@ -23,4 +23,7 @@ for y in range(6):
     turtle.fd(100)
     turtle.lt(90)
 
+def draw_square(side_lenth, color):
+    turtle.color
+
 turtle.exitonclick()
