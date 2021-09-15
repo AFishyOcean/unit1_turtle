@@ -5,7 +5,7 @@ turtle.color("blue")
 turtle.rt(90)
 for x in range(12):
     for x in range(6):
-        turtle.forward(100)
+        turtle.fd(100)
         turtle.rt(60)
     turtle.rt(30)
 turtle.color("black")
